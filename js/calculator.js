@@ -1,8 +1,8 @@
-var displayValue = '';
-var lastValue = '';
-var disableOperation = 'NO';
-var firstOperation = 'YES';
-var lastOperation = '';
+let displayValue = '';
+let lastValue = '';
+let disableOperation = 'NO';
+let firstOperation = 'YES';
+let lastOperation = '';
 
 
 function calculateResult(operationTypeToCalculate){
